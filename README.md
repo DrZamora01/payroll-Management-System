@@ -48,7 +48,6 @@ To run the program locally on your system, follow the steps below:
 
 Note: The program maintains the original database structure provided. Renaming any elements in the database may cause the program to fail.
 
-## Troubleshooting
 
 
 
